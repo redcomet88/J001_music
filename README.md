@@ -1,6 +1,6 @@
-# J001_music  Vue+SpringBoot音乐推荐可视化系统|双协同过滤推荐算法spark数据分析|配套文档1.1万字
+# J001  Vue+SpringBoot音乐推荐可视化系统|双协同过滤推荐算法spark数据分析|配套文档1.1万字
 
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
 也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 关注B站，有好处！
